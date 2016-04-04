@@ -5,4 +5,6 @@ It is a little fan site for "The US Office" TV show
 
 View the web app here:
 
-http:theoffice.darraghking.com
+[The US Office Character Directory](http:theoffice.darraghking.com)
+
+
